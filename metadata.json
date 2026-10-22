@@ -1,0 +1,6 @@
+{
+  "name": "FinAI Business Manager",
+  "description": "AI-powered accounting, finance, transaction intelligence, and CRM integration platform for SMEs and enterprises.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
